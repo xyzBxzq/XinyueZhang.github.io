@@ -6,7 +6,7 @@
 
 这是一个个人主页 
 
-打开浏览器，访问 https://github.com/xyzBxzq/XinyueZhang.github.io，即可查看我的个人主页
+打开浏览器，访问 xyzBxzq/XinyueZhang.github.io ，即可查看我的个人主页
 
 Fire up a browser and go to `https://github.com/xyzBxzq/XinyueZhang.github.io`
 
